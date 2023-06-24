@@ -1,9 +1,12 @@
-- 👋 Hi there, I'm stevephary
-- 🧨I love data and web development
-- 👨‍💻 machine learning practioner
-- 🌱 I’m currently building web applications using Asp.net core
-- 💞️ I’m looking to collaborate on different projects that encourage growth
-- 📫 How to reach me: twitter account @stevejaphary
+👋 Hi there, I'm Steve Phary.
+
+🧨 Passionate about data science and web development.
+👨‍💻 Currently honing my skills in machine learning and data science.
+🌱 Constantly learning and exploring the fascinating world of data.
+⚽️ Enjoy playing football during my free time, embracing the teamwork and competitive spirit it brings.
+🎧 A music enthusiast, finding solace and inspiration through various genres.
+💞️ Excited to collaborate on projects that foster growth and learning.
+📫 You can reach me on Twitter at @stevejaphary.
 
 <!---
 stevephary/stevephary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
