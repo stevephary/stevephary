@@ -9,7 +9,7 @@ I'm a passionate data professional with a focus on Data Engineering and Backend 
 ## 📫 Contact Me
 
 - 📧 Email: stevephary@gmail.com
-- 🐦 Twitter: @stevephary
+- 🐦 Twitter: @stevejaphary
 
 Let's make data-driven and backend magic together. 🚀
 
