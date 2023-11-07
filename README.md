@@ -1,18 +1,19 @@
-👋 Hi there, I'm Steve Phary.
+## Hi, I'm Stephen Japhary 👋
 
-🧨 Passionate about data science and web development.
+I'm a passionate data professional with a focus on Data Engineering and Backend Development.
 
-👨‍💻 Currently honing my skills in machine learning and data science.
+🌱 Always on a quest to expand my knowledge in data-related technologies.
 
-🌱 Constantly learning and exploring the fascinating world of data.
+💬 **Let's Connect:** I'm open to collaborating and sharing insights in the data and backend development fields.
 
-⚽️ Enjoy playing football during my free time, embracing the teamwork and competitive spirit it brings.
+## 📫 Contact Me
 
-🎧 A music enthusiast, finding solace and inspiration through various genres.
+- 📧 Email: stevephary@gmail.com
+- 🐦 Twitter: @stevephary
 
-💞️ Excited to collaborate on projects that foster growth and learning.
+Let's make data-driven and backend magic together. 🚀
 
-📫 You can reach me on Twitter at @stevejaphary.
+
 
 <!---
 stevephary/stevephary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
