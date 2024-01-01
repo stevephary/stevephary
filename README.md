@@ -1,4 +1,4 @@
-## Hi, it's phary 
+# Hi, it's phary 
 
 crafting society using code
 
