@@ -1,17 +1,13 @@
-## Hi, I'm Stephen Japhary 👋
+## Hi, it's phary 
 
-I'm a passionate data professional with a focus on Data Engineering and Backend Development.
-
-🌱 Always on a quest to expand my knowledge in data-related technologies.
-
-💬 **Let's Connect:** I'm open to collaborating and sharing insights in the data and backend development fields.
+crafting society using code
 
 ## 📫 Contact Me
 
 - 📧 Email: stevephary@gmail.com
 - 🐦 Twitter: @stevejaphary
 
-Let's make data-driven and backend magic together. 🚀
+Do the thing. 🚀
 
 
 
