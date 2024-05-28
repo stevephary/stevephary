@@ -1,13 +1,11 @@
-# Hi, it's phary 
+# Hi anon,
 
-crafting society using code
+Just do stuff
 
 ## 📫 Contact Me
 
 - 📧 Email: stevephary@gmail.com
 - 🐦 Twitter: @stevejaphary
-
-Do the thing. 🚀
 
 
 
