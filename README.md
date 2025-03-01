@@ -1,4 +1,4 @@
-hi, i am phary a builder
+hi, I'm Phary, a builder passionate about creating and innovating.
 
 
 
